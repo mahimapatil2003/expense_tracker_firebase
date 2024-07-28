@@ -1,6 +1,6 @@
 import "./App.css";
 
-import { BrowserRouter as HashRouter, Route, Routes, HashRouter } from "react-router-dom";
+import { BrowserRouter as  Route, Routes, HashRouter } from "react-router-dom";
 import { Auth } from "./pages/auth/index";
 import { ExpenseTracker } from "./pages/expense-tracker/index";
 
